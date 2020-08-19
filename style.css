@@ -1,0 +1,22 @@
+#about-section{
+    background-image: linear-gradient(#05613e, green);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px 0;
+}
+#about-section i{
+    margin: 0 5px;
+    font-size: 20px;
+}
+hr{
+    width: 50%;
+    height: 2px;
+    border-radius: 50%;
+    background-image: linear-gradient(45deg, blue, black);
+}
+.projects{
+    box-shadow: 0px 0px 10px 0px;
+    padding: 20px;
+    margin: 20px;
+}
